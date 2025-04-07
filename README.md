@@ -26,3 +26,22 @@ A simple and modern Salesforce Case Management System built using Apex and Light
 
 ## 📁 Project Structure
 
+📦 Case Management
+├── 📁 force-app
+│   └── 📁 main
+│       └── 📁 default
+│           ├── 📁 classes               # Apex Classes (e.g., CaseController.cls)
+│           ├── 📁 lwc                   # Lightning Web Components
+│           └── 📁 triggers              # Apex Triggers (if any)
+├── 📁 config                            # Scratch org definition
+│   └── project-scratch-def.json
+├── 📁 scripts                           # Sample Apex/Soql scripts
+│   ├── apex
+│   └── soql
+├── 📁 .vscode                           # VS Code settings
+├── .gitignore
+├── sfdx-project.json                   # SFDX project configuration
+├── README.md                           # Project info and setup guide
+└── package.json                        # Project dependencies
+
+
