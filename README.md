@@ -1,18 +1,28 @@
-# Salesforce DX Project: Next Steps
+# Case Management System 🗂️
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+A simple and modern Salesforce Case Management System built using Apex and Lightning Web Components (LWC). This project is designed as a self-learning initiative to demonstrate core Salesforce development skills.
 
-## How Do You Plan to Deploy Your Changes?
+---
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+## Features
 
-## Configure Your Salesforce DX Project
+- Create, update, and manage support cases
+- Lightning Web Component (LWC) for interactive UI
+- Apex controller for server-side logic
+- Follows Salesforce best practices (like separation of concerns)
+- Easy to extend for more features like case assignment, priorities, or status tracking
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+---
 
-## Read All About It
+## Technologies Used
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+- Salesforce Apex
+- Lightning Web Components (LWC)
+- Visual Studio Code
+- Salesforce CLI
+- Git & GitHub
+
+---
+
+## 📁 Project Structure
+
